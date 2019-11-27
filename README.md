@@ -1,4 +1,6 @@
 # FormatterKit
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FFormatterKit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FFormatterKit?ref=badge_shield)
+
 
 > This library is no longer being maintained.
 > Since its initial release in 2011,
@@ -361,3 +363,6 @@ See the LICENSE file for more info.
 [nsnumberformatterordinalstyle]: https://developer.apple.com/documentation/foundation/nsnumberformatterstyle/nsnumberformatterordinalstyle?language=objc
 [nsrelativedatetimeformatter]: https://developer.apple.com/documentation/foundation/NSRelativeDateTimeFormatter
 [nsunitinformationstorage]: https://developer.apple.com/documentation/foundation/NSUnitInformationStorage
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FFormatterKit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FFormatterKit?ref=badge_large)
